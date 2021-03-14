@@ -1,0 +1,31 @@
+{
+  "name": "w3",
+  "version": "0.1.0",
+  "description": "w3",
+  "main": "sample-http-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified! Configure in package.json\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "node.js",
+    "eclipse",
+    "nodeclipse"
+  ],
+  "devDependencies": {
+    "express": "^4.17.1",
+    "open": "*"
+  },
+  "author": "",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "formidable": "^1.2.2",
+    "mongodb": "^3.6.1",
+    "multer": "^1.4.2",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.4.11"
+  }
+}
